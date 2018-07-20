@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 int main()
 {
@@ -6,7 +6,7 @@ int main()
     double pi = 3.1415926536;
 
     printf("Integer is %d \n", num);
-    printf("Values are ");
+//    printf("Values are ");
 
 }
 

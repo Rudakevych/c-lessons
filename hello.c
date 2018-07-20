@@ -1,6 +1,4 @@
-//
-// Created by yr on 2018-07-19.
-//
+
 
 #include <stdio.h>
 
