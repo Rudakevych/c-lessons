@@ -3,6 +3,7 @@ project(untitled C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(untitled main.c)
-add_executable(untitled hello.c)
-add_executable(untitled vars.c)
+#add_executable(untitled main.c)
+#add_executable(untitled hello.c)
+#add_executable(untitled vars.c)
+add_executable(untitled setvars.c)
