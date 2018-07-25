@@ -34,10 +34,10 @@ set(CMAKE_C_STANDARD 99)
 #add_executable(untitled xor.c)
 #add_executable(untitled precedence.c)
 #add_executable(untitled jump.c)
+#add_executable(untitled first.c) # some problem here
+#add_executable(untitled args.c)
+#add_executable(untitled recur.c) # rekursia
+#add_executable(untitled square.c utils.h) # using 2 files
 add_executable(untitled xor.c)
-#add_executable(untitled xor.c)
-#add_executable(untitled xor.c)
-#add_executable(untitled xor.c)
-#add_executable(untitled xor.c)
 #add_executable(untitled xor.c)
 #add_executable(untitled xor.c)
